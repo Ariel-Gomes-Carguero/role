@@ -1,0 +1,4 @@
+---
+# vars file for apache
+
+test_var: Testando a variavel
